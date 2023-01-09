@@ -1,0 +1,25 @@
+---
+title: "Global Terrorist Attack"
+author: " Jerin Jacob"
+desription: "Global Terrorist Attack Data"
+date: "01/08/2022"
+format:
+  html:
+    toc: true
+    code-fold: true
+    code-copy: true
+    code-tools: true
+categories:
+  - challenge_3
+---
+
+```{r}
+#| label: setup
+#| warning: false
+#| message: false
+
+library(tidyverse)
+
+knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
+```
+
